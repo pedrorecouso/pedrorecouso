@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hola, soy Pedro Recouso 👋
 
-<!--
-**pedrorecouso/pedrorecouso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Sistemas** en la Facultad de Ingeniería (UdelaR) y desarrollador **Frontend**, actualmente dando mis primeros pasos en **Backend** con el objetivo de consolidarme como desarrollador **Fullstack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+
+- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript (ES6+), Vue.js
+- **Fundamentos & Programación:** Lógica, estructuras de datos, Pascal
+- **Herramientas:** Git, GitHub, VS Code
+
+---
+
+### 📌 En qué estoy trabajando ahora
+
+- Construyendo y modernizando proyectos web propios aplicando consumo de APIs, diseño responsive y buenas prácticas.
+- Incorporando desarrollo Backend para conectar interfaces con servidores y bases de datos.
+- Buscando mi primera oportunidad laboral en el rubro IT como desarrollador Trainee / Junior.
+
+---
